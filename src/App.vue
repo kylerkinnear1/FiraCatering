@@ -3,6 +3,7 @@
     <div class="nav-bar-container">
       <nav-bar />
     </div>
+    <div class="background-image"></div>
     <div class="content-container">
       <router-view />
     </div>
@@ -23,6 +24,8 @@ body {
   margin: 0px;
   color: #4f4f4f;
   background-image: url("~@/assets/images/home-page-background.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 </style>
 <style scoped>
@@ -31,6 +34,7 @@ body {
   width: 100%;
   z-index: 1;
 }
+
 .content-container {
   position: absolute;
   top: 180px;
