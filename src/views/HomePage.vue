@@ -1,5 +1,8 @@
 <template>
-  <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum porro non nisi voluptates nulla iure eligendi ex, totam aliquid quae saepe culpa sed necessitatibus alias eveniet aliquam voluptas officia veritatis. Dicta accusamus assumenda eaque dolore ut sint rerum! Nostrum nisi facilis aliquid adipisci provident aut reprehenderit quod aliquam illum repudiandae aperiam velit soluta est esse corrupti, error atque deserunt quos porro sed distinctio quidem optio sequi? Asperiores voluptatem at iure quos eveniet cupiditate quis itaque molestias magnam alias laborum optio, corporis eaque consequatur libero facilis quibusdam voluptates! Perferendis dicta pariatur fugiat ab illum veniam quasi mollitia maiores eligendi, sunt facere reprehenderit ut laudantium, provident ducimus animi possimus quam. Repellendus ipsam placeat saepe at vero exercitationem quisquam aperiam nihil quia, aliquam deleniti aspernatur, explicabo magnam doloremque provident voluptate qui excepturi eum, animi quod quo iusto. Sapiente aperiam quibusdam architecto ab qui exercitationem itaque commodi ducimus necessitatibus voluptate ut, sunt corrupti, a consequatur, provident cum incidunt aliquid? Nobis eligendi vitae qui nemo mollitia officia error officiis cupiditate repudiandae rem autem et quidem quos eaque esse blanditiis dolor nam voluptates delectus omnis dolorem, doloribus illo dolores est. Dolores esse repellat illum tenetur placeat, quos quas libero, velit, accusamus quasi ducimus aliquid in possimus a voluptate nobis. Esse magni aspernatur eos amet dolores sapiente alias voluptatem! Modi, odio fugit eius numquam quia illo! Libero autem esse quas natus eligendi quos nihil qui, nisi dolor dolorum provident ratione assumenda! Eaque, iste aperiam. Adipisci iure, optio a dicta minima soluta ab repellendus, voluptatum magni natus corporis commodi officia? Nobis distinctio maxime commodi repellendus sequi quis reiciendis rerum veritatis quia, itaque asperiores natus totam voluptatem neque fugiat accusantium blanditiis sed nemo architecto deserunt magnam possimus mollitia laboriosam. Illo veniam repellendus asperiores rerum laudantium qui a unde possimus aperiam. Commodi corporis recusandae quae! Laudantium animi, saepe quibusdam expedita iste voluptas ad, perferendis reiciendis nostrum obcaecati reprehenderit eos vitae non provident alias labore nemo, cumque dolorem. Excepturi a omnis distinctio minus deleniti magnam numquam dolore, nesciunt eum sapiente fuga quos ex accusantium temporibus ipsam est nemo, nostrum ipsa magni exercitationem esse nihil consectetur in. Voluptatibus eum eaque quidem in ex pariatur aspernatur soluta iste unde eius. Rem ducimus earum molestias officia omnis deleniti quo quis asperiores ex. Illo, excepturi nulla non ex, eaque voluptate voluptatibus, itaque officia voluptatem tenetur aliquid. Suscipit, totam aliquam velit voluptates culpa nulla! Id explicabo incidunt unde aliquam. Corporis porro aspernatur, repellendus dolor rerum soluta est quasi debitis ipsum quo omnis nihil id minima nemo, labore nobis deserunt libero voluptatem perferendis quisquam voluptas aperiam exercitationem enim inventore. Impedit blanditiis harum sapiente a enim amet rerum quia fugiat corporis doloremque non quos, dolores, voluptate obcaecati ratione? Vitae natus ipsa labore doloremque esse explicabo magni autem eum saepe ullam soluta, deleniti eligendi quod sit est quia ratione consequatur incidunt, possimus in ducimus? Impedit eum corporis recusandae maxime ullam, sapiente laudantium dolore. Expedita voluptatem voluptatum, perspiciatis explicabo neque obcaecati alias placeat sapiente, nisi doloremque natus esse animi aperiam ex dignissimos officia mollitia delectus ipsam est consequatur ullam in. Atque possimus sint maiores consectetur reiciendis omnis cumque, ab incidunt vel tenetur, tempore, nulla similique placeat corporis error libero voluptatem! At, obcaecati sapiente. Quidem inventore vero dolorem quia ipsa corrupti at maiores, quo debitis laboriosam eum blanditiis. Eius, soluta quibusdam esse recusandae ratione aliquam vero ipsum molestias nostrum consequatur. Sunt alias quod culpa repellat cupiditate eius quibusdam vel voluptas, est corrupti perferendis possimus praesentium saepe aut excepturi. Corporis voluptas consequuntur reprehenderit impedit, dolores provident modi quae quis officiis, vel dignissimos maxime debitis, dolor blanditiis similique? Delectus, tempora vero veniam rem, nihil totam eveniet voluptatibus, labore accusamus beatae rerum repellendus. Commodi autem impedit magni architecto, porro delectus dolorem dolor, nihil cum consequatur fuga, fugiat provident. Magni dolorem odio optio in distinctio exercitationem aperiam nesciunt accusantium error magnam, unde blanditiis officia dicta deserunt a possimus enim accusamus! Tempora in perspiciatis molestiae id ullam provident obcaecati, ipsa similique iusto aperiam enim quidem magnam eaque accusantium repellendus? Nesciunt quibusdam corporis, maiores, iusto hic eius amet voluptates similique enim, soluta nulla omnis excepturi explicabo quas quia dolorem obcaecati facere quod voluptatem quam tenetur? Explicabo cumque reiciendis minus. Excepturi voluptas animi modi nostrum magnam, dignissimos ipsam. Quae a incidunt illo dicta laboriosam ea. Sequi eum, delectus incidunt itaque soluta nobis autem laborum at aut placeat inventore quod sunt in a? Esse sapiente harum, eos cumque cum quos dolorem fuga repellendus delectus beatae voluptatibus, sequi id quidem magnam? Alias autem dolor voluptatibus praesentium officiis quia ipsam nostrum facilis. Esse, rem corporis possimus consectetur maxime iste ipsa ab dolorum magnam at dolore commodi ea aut laborum quae repellendus enim corrupti nisi tenetur illum. Reprehenderit eius, placeat voluptatum tempore iure quas expedita, itaque facere nulla hic cum quibusdam. Ullam incidunt exercitationem voluptate obcaecati quae, voluptas recusandae corrupti minus laboriosam unde at animi quis illum asperiores totam ipsam quidem porro sint ratione dolore quam! Blanditiis, consectetur, similique aperiam explicabo laborum, reprehenderit fugit odit repudiandae aut nisi harum rem sed quia ratione vitae veritatis ipsam modi! Assumenda tempora delectus atque mollitia ducimus, aliquid consequuntur minus nobis cumque deserunt ex facere itaque sed animi sequi architecto aperiam labore adipisci veniam, dolores ratione. Tenetur perferendis explicabo corrupti, aut quod, error, ducimus nam distinctio non animi architecto pariatur at quae dignissimos voluptates natus hic ex eius facilis veritatis doloribus. Iure unde voluptates nam itaque fugit ad est eaque, similique illo possimus deserunt aliquam tempore culpa, placeat illum, dolor ipsa nesciunt. Exercitationem libero culpa, vero eligendi a animi. Voluptatum aliquid enim nulla, mollitia fuga repellat quibusdam nemo voluptas a numquam ut veniam neque porro itaque hic ratione culpa corrupti voluptatem accusamus dolores quia error, aliquam, distinctio eligendi. Eligendi minima ratione quasi, quaerat pariatur quidem, id officia hic est et possimus labore praesentium incidunt rem modi fugit atque unde rerum animi voluptates dolores repellat? Ex nisi pariatur excepturi non illo asperiores dolor ratione quis voluptas voluptatem, veniam quas eius libero beatae! Iste, natus! Dolor doloribus porro praesentium pariatur? Assumenda iste aliquam iure, quo excepturi quasi sint, quae eius labore, atque enim laudantium dignissimos omnis temporibus deserunt.</div>
+  <div>
+    <button class="explore-menu">Explore Menu</button>
+    <button class="check-availability">Check Availability</button>
+  </div>
 </template>
 
 <script>
@@ -8,8 +11,32 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 div {
-  font-size: 24pt;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 180px);
+}
+
+button {
+  width: 350px;
+  padding: 15px;
+  margin: 10px;
+  transform: translateY(-50%);
+}
+
+.explore-menu {
+  background: linear-gradient(#ffa00a, #ff6e03);
+  color: white;
+}
+
+.explore-menu:hover {
+  background: linear-gradient(#ffb949, #ff832b);
+}
+
+.check-availability {
+  background: white;
+  color: inherit;
 }
 </style>

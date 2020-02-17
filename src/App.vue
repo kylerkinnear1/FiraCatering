@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="nav-bar-container">
+    <div>
       <nav-bar />
     </div>
     <div class="background-image"></div>
@@ -27,9 +27,17 @@ body {
   background-repeat: no-repeat;
   background-size: auto;
 }
+
+button {
+  border: none;
+  font-size: 16pt;
+  box-shadow: 0px 1px 2px black;
+  text-transform: uppercase;
+  cursor: pointer;
+}
 </style>
 <style scoped>
-.nav-bar-container {
+nav-bar {
   position: fixed;
   width: 100%;
   z-index: 1;
