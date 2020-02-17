@@ -29,10 +29,11 @@ button {
 .explore-menu {
   background: linear-gradient(#ffa00a, #ff6e03);
   color: white;
+  text-shadow: 0px 0px 3px #991800;
 }
 
 .explore-menu:hover {
-  background: linear-gradient(#ffb949, #ff832b);
+  background: linear-gradient(#ffc315, #ff7403);
 }
 
 .check-availability {
