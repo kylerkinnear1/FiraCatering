@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="background" />
+    <div class="background" :class="hasScrolledDown ? 'background-opaque' : ''" />
     <router-link to="/home">
       <img src="@/assets/images/fira-logo.png" />
     </router-link>
@@ -31,7 +31,23 @@
 
 <script>
 export default {
-  name: "nav-bar"
+  name: "nav-bar",
+  data() {
+    return { hasScrolledDown: false };
+  },
+  mounted() {
+    window.addEventListener("scroll", this.onScroll);
+  },
+  beforeDestroy() {
+    window.removeEventListener("scroll", this.onScroll);
+  },
+  methods: {
+    onScroll() {
+      const currentScrollPosition =
+        window.pageYOffset || document.documentElement.scrollTop;
+      this.hasScrolledDown = currentScrollPosition >= 75;
+    }
+  }
 };
 </script>
 
@@ -46,6 +62,11 @@ export default {
   height: 100%;
   background-color: rgba(255, 255, 255, 0.6);
   z-index: -2;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.background-opaque {
+  background-color: rgba(255, 255, 255, 0.95);
 }
 
 img {
