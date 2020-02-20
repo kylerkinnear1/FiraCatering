@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div>
+    <div class="nav-bar-container">
       <nav-bar />
     </div>
     <div class="background-image" />
@@ -37,7 +37,7 @@ button {
 }
 </style>
 <style scoped>
-nav-bar {
+.nav-bar-container {
   position: fixed;
   width: 100%;
   z-index: 1;

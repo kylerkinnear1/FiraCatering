@@ -6,10 +6,10 @@
         <featured-package title="Basic" price="$7.99" />
       </div>
       <div>
-        <featured-package title="Basic" price="$7.99" />
+        <featured-package title="Classic" price="$9.99" />
       </div>
       <div>
-        <featured-package title="Basic" price="$7.99" />
+        <featured-package title="Deluxe" price="$21.99" />
       </div>
     </div>
   </div>
@@ -27,7 +27,7 @@ export default {
 
 <style scoped>
 .packages-container {
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 200px 0px;
   display: flex;
   justify-content: center;
 }
