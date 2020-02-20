@@ -66,7 +66,7 @@ export default {
 }
 
 .background-opaque {
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(255, 255, 255, 0.97);
 }
 
 img {
