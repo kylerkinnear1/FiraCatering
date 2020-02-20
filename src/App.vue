@@ -3,7 +3,7 @@
     <div>
       <nav-bar />
     </div>
-    <div class="background-image"></div>
+    <div class="background-image" />
     <div class="content-container">
       <router-view />
     </div>

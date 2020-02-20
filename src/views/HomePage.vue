@@ -1,43 +1,38 @@
 <template>
   <div>
-    <button class="explore-menu">Explore Menu</button>
-    <button class="check-availability">Check Availability</button>
+    <header-highlights />
+    <div class="packages-container">
+      <div>
+        <featured-package title="Basic" price="$7.99" />
+      </div>
+      <div>
+        <featured-package title="Basic" price="$7.99" />
+      </div>
+      <div>
+        <featured-package title="Basic" price="$7.99" />
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
+import HeaderHighlights from "@/components/HeaderHighlights.vue";
+import FeaturedPackage from "@/components/FeaturedPackage.vue";
+
 export default {
-  name: "home-page"
+  name: "home-page",
+  components: { HeaderHighlights, FeaturedPackage }
 };
 </script>
 
 <style scoped>
-div {
+.packages-container {
+  margin: 0px 0px 20px 0px;
   display: flex;
-  align-items: center;
   justify-content: center;
-  height: calc(100vh - 180px);
 }
 
-button {
-  width: 350px;
-  padding: 15px;
-  margin: 10px;
-  transform: translateY(-50%);
-}
-
-.explore-menu {
-  background: linear-gradient(#ffa00a, #ff6e03);
-  color: white;
-  text-shadow: 0px 0px 3px #991800;
-}
-
-.explore-menu:hover {
-  background: linear-gradient(#ffc315, #ff7403);
-}
-
-.check-availability {
-  background: white;
-  color: inherit;
+.packages-container div {
+  margin: 0px 2px;
 }
 </style>
