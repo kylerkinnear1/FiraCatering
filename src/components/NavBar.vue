@@ -97,35 +97,9 @@ a {
 a:hover,
 a:focus,
 .router-link-active {
-  color: white;
-  text-shadow: 0px 0px 2px black;
+  color: black;
+  text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
   outline: none;
-}
-
-ul a::after,
-ul .router-link-active::after {
-  content: "";
-  background: linear-gradient(#ffa00a, #ff6e03);
-  position: absolute;
-  top: -20px;
-  left: 5px;
-  right: 5px;
-  bottom: -20px;
-  z-index: -1;
-  box-shadow: 0px 1px 2px black;
-}
-
-ul a::after {
-  opacity: 0;
-  transition: all 0.2s ease-in-out;
-  transform: scaleY(0);
-  transform-origin: bottom;
-}
-
-ul a:hover::after,
-ul .router-link-active::after {
-  transform: scaleY(1);
-  opacity: 1;
 }
 
 li {
