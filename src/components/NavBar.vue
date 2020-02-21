@@ -45,7 +45,7 @@ export default {
     onScroll() {
       const currentScrollPosition =
         window.pageYOffset || document.documentElement.scrollTop;
-      this.hasScrolledDown = currentScrollPosition >= 75;
+      this.hasScrolledDown = currentScrollPosition >= 50;
     }
   }
 };
