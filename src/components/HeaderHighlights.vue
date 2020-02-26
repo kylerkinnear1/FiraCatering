@@ -16,7 +16,7 @@ div {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: calc(100vh - 180px);
+  height: calc(100vh - var(--nav-bar-height));
 }
 
 button {

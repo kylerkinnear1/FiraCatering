@@ -48,7 +48,9 @@ export default {
 
 <style scoped>
 .container {
-  position: relative;
+  position: absolute;
+  width: 100%;
+  height: var(--nav-bar-height);
 }
 
 .background {

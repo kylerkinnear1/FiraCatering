@@ -20,6 +20,10 @@ export default {
 <style>
 @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
+:root {
+  --nav-bar-height: 180px;
+}
+
 body {
   margin: 0px;
   color: #4f4f4f;
@@ -45,7 +49,7 @@ button {
 
 .content-container {
   position: absolute;
-  top: 180px;
+  top: var(--nav-bar-height);
   width: 100%;
 }
 </style>
