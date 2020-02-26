@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <header-highlights />
     <featured-packages />
   </div>
@@ -16,4 +16,10 @@ export default {
 </script>
 
 <style scoped>
+.container {
+  background-image: url("~@/assets/images/home-page-background.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  padding-top: var(--nav-bar-height);
+}
 </style>

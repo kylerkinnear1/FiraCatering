@@ -27,9 +27,6 @@ export default {
 body {
   margin: 0px;
   color: #4f4f4f;
-  background-image: url("~@/assets/images/home-page-background.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
 }
 
 button {
@@ -49,7 +46,6 @@ button {
 
 .content-container {
   position: absolute;
-  top: var(--nav-bar-height);
   width: 100%;
 }
 </style>
