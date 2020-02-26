@@ -1,7 +1,7 @@
 <template>
   <div>
-    <button class="explore-menu">Explore Menu</button>
-    <button class="check-availability">Make a Reservation</button>
+    <button class="explore-menu" @click="$router.push('menu')">Explore Menu</button>
+    <button class="make-reservation" @click="$router.push('contact')">Make a Reservation</button>
   </div>
 </template>
 
@@ -32,16 +32,20 @@ button {
   text-shadow: 0px 0px 3px #991800;
 }
 
-.explore-menu:hover {
+.explore-menu:hover,
+.explore-menu:focus {
   background: linear-gradient(#ffc315, #ff7403);
+  outline: none;
 }
 
-.check-availability {
+.make-reservation {
   background: white;
-  color: inherit;
+  color: #4f4f4f;
 }
 
-.check-availability:hover {
+.make-reservation:hover,
+.make-reservation:focus {
   background: linear-gradient(white, #cecece);
+  outline: none;
 }
 </style>

@@ -6,17 +6,8 @@
     </router-link>
     <nav>
       <ul>
-        <router-link to="/home">
-          <li>Home</li>
-        </router-link>
         <router-link to="/menu">
           <li>Menu</li>
-        </router-link>
-        <router-link to="/corporate">
-          <li>Corporate</li>
-        </router-link>
-        <router-link to="/wedding">
-          <li>Wedding</li>
         </router-link>
         <router-link to="/about">
           <li>About</li>
@@ -37,12 +28,16 @@ export default {
   },
   mounted() {
     window.addEventListener("scroll", this.onScroll);
+    this.updateHasScrolledDown();
   },
   beforeDestroy() {
     window.removeEventListener("scroll", this.onScroll);
   },
   methods: {
     onScroll() {
+      this.updateHasScrolledDown();
+    },
+    updateHasScrolledDown() {
       const currentScrollPosition =
         window.pageYOffset || document.documentElement.scrollTop;
       this.hasScrolledDown = currentScrollPosition >= 50;
@@ -72,6 +67,10 @@ export default {
 img {
   margin-left: 15px;
   transform: scale(0.8);
+}
+
+img:hover {
+  filter: brightness(110%);
 }
 
 nav {
