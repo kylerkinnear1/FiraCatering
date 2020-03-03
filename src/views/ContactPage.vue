@@ -56,6 +56,11 @@ export default {
   background: white;
   text-align: center;
 }
+
+.contact-card-container {
+  display: flex;
+}
+
 h1 {
   text-transform: uppercase;
   font-family: "Roboto";
@@ -71,8 +76,14 @@ img {
   margin-bottom: 100px;
 }
 
-.contact-card-container {
-  display: flex;
+form {
+  width: 100%;
+  margin: -5px 60px 0px 60px;
+}
+
+form div {
+  width: 100%;
+  margin-bottom: 20px;
 }
 
 label {
@@ -97,16 +108,6 @@ div textarea {
 
 div textarea {
   resize: none;
-}
-
-form {
-  width: 100%;
-  margin: -5px 60px 0px 60px;
-}
-
-form div {
-  width: 100%;
-  margin-bottom: 20px;
 }
 
 .share-line {
