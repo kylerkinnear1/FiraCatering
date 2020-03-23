@@ -1,45 +1,27 @@
 <template>
   <div class="container">
-    <div class="contact-card">
+    <div class="contact-card-container">
       <h1>Contact Us</h1>
-      <div class="contact-card-container">
-        <img src="@/assets/images/contact-us-highlight.jpg" />
-        <form>
-          <div>
-            <label for="customer-name">Name *</label>
-            <input type="text" id="customer-name" />
-          </div>
-          <div>
-            <label for="customer-email">Email *</label>
-            <input type="text" id="customer-email" />
-          </div>
-          <div>
-            <label for="customer-phone">Phone</label>
-            <input type="text" id="customer-phone" />
-          </div>
-          <div class="share-line">
-            <div class="share-line-item">
-              <label for="event-type">Event Type</label>
-              <input type="text" id="event-type" />
-            </div>
-            <div class="share-line-item">
-              <label for="event-date">Event Date *</label>
-              <input type="text" id="event-date" />
-            </div>
-          </div>
-          <div>
-            <label for="comments">Comments</label>
-            <textarea type="text" id="comments" />
-          </div>
-        </form>
+      <div class="contact-card">
+        <div class="image-container">
+          <img src="@/assets/images/contact-us-highlight.jpg" />
+        </div>
+        <div class="form-container">
+          <contact-form />
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import ContactForm from "@/components/ContactForm.vue";
+
 export default {
-  name: "contact-page"
+  name: "contact-page",
+  components: {
+    ContactForm
+  }
 };
 </script>
 
@@ -52,13 +34,23 @@ export default {
   padding: 750px 200px 20px 200px;
 }
 
-.contact-card {
+.contact-card-container {
   background: white;
   text-align: center;
 }
 
-.contact-card-container {
+.contact-card {
   display: flex;
+}
+
+.image-container {
+  flex: 5;
+  margin: 15px 0px 0px 80px;
+}
+
+.form-container {
+  flex: 6;
+  margin: 0px 80px 0px 80px;
 }
 
 h1 {
@@ -70,62 +62,8 @@ h1 {
 }
 
 img {
-  width: 583px;
-  height: 437px;
-  margin-left: 60px;
-  margin-bottom: 100px;
-}
-
-form {
   width: 100%;
-  margin: -5px 60px 0px 60px;
-}
-
-form div {
-  width: 100%;
-  margin-bottom: 20px;
-}
-
-label {
-  font-family: "Roboto";
-  font-weight: lighter;
-  text-transform: uppercase;
-  display: block;
-  margin-bottom: 6px;
-  font-size: 16pt;
-  text-align: left;
-}
-
-div input,
-div textarea {
-  font-family: "Roboto";
-  font-weight: lighter;
-  font-size: 16pt;
-  padding: 4px;
-  width: 100%;
-  box-sizing: border-box;
-}
-
-div textarea {
-  resize: none;
-}
-
-.share-line {
-  display: flex;
-  justify-content: space-between;
-}
-
-.share-line-item {
-  position: relative;
-  margin: 0px;
-  width: calc(50% - 3px);
-}
-
-.share-line-item input {
-  position: relative;
-}
-
-#comments {
-  height: 100px;
+  height: auto;
+  min-width: 450px;
 }
 </style>
