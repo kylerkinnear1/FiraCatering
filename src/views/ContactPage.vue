@@ -41,11 +41,12 @@ export default {
 
 .contact-card {
   display: flex;
+  align-items: center;
 }
 
 .image-container {
   flex: 5;
-  margin: 15px 0px 0px 80px;
+  margin: 0px 0px 0px 80px;
 }
 
 .form-container {

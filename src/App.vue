@@ -36,6 +36,31 @@ button {
   text-transform: uppercase;
   cursor: pointer;
 }
+
+.button-primary {
+  padding: 15px;
+  background: linear-gradient(#ffa00a, #ff6e03);
+  color: white;
+  text-shadow: 0px 0px 3px #991800;
+}
+
+.button-primary:hover,
+.button-primary:focus {
+  background: linear-gradient(#ffc315, #ff7403);
+  outline: none;
+}
+
+.button-secondary {
+  padding: 15px;
+  background: white;
+  color: #4f4f4f;
+}
+
+.button-secondary:hover,
+.button-secondary:focus {
+  background: linear-gradient(white, #cecece);
+  outline: none;
+}
 </style>
 <style scoped>
 .nav-bar-container {

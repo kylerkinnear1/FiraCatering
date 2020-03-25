@@ -2,7 +2,7 @@
   <div class="container">
     <div class="background" :class="hasScrolledDown ? 'background-opaque' : ''" />
     <router-link to="/home">
-      <img src="@/assets/images/fira-logo.png" />
+      <img src="@/assets/images/fira-logo-v2.png" />
     </router-link>
     <nav>
       <ul>
